@@ -1,0 +1,55 @@
+-----------------------------------------contents of the lecture---------------------------------------------------
+
+* features of java
+  --? 1.simple
+        * very easy to learn.
+        * based on c++ and fimiliar to c++ coders.
+        * no complicated features like pointers,operator overloading
+        * automatic garbage collection.
+  
+  --> 2.object oriented
+        * like real world, it is centered on objects,manipulating objects and making them work together.
+        * better than procedural programming.
+        * OOPs is secure and provide data hiding features.
+
+  --> 3.platform independent
+        * write once and run anuwhere like on windows,linux,mac.
+        * additional layer (class file) is added to achieve platform independence.
+        * using byte code and different JVM's for different operating systems java achieve it's independence.
+   
+  --> 4.architecture neutral
+        * java has essential features that allows the applications to run on different machines.
+        * no architecture dependencies.
+
+  --> 5.portable
+        * portable because it facilitates to carry the java bytecode to any platform.
+
+  --> 6.robust
+        * strogn/reliable
+        * java removed error prone constructs that are found in other programming languages.
+        * does not support pointers thus eliminationg the possibilites of overwriting memory and corrupting data.
+        * storng memory allocation and garbage collection mechanism.
+        * has a good exception handling mechanism.
+        
+  --> 7.secure
+        * best known for its security.
+        * does not use pointers explicitly.
+        * run under an area known as the Sand Box.
+        * java uses public key encryption system to allow the java applications transmit over the internet in the secured encryption form.
+        * the byte code verifier checks the classes after loading.
+      
+  --> 8.high performance
+        * faster than other traditional interpreted programming languages as its bytecode is close to native code.
+        * but not as fast as c and c++.
+        * new javm is faster than the old one as it uses the just in time compilation (JIT).
+        
+  --> 9.multi-threaded
+        * single program have different independent tasks to be performed independently.
+        * we can write java program tat deal with many tasks at once by defining multiple threads.
+        * used in server applications
+        * can be crated by extending thread class and by implementing runnalbe interface.
+      
+  --> 10.distributed
+         * several computers work together.
+         * java is designed to develop applications that make distributed computing easy and efficient.
+      
